@@ -1,18 +1,26 @@
-.form {
-    /* width: 20%; */
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
-    border: 10px;
-    
-  }
-  
-  #button{
-    background-color: blueviolet;
 
-    
-  }
+body{
+    background-color: rgb(168, 168, 146);
+}
 
-  #first{
-    height: 40px;
-  }
+#first{
+    width: 20%;
+    height: 50px;
+    margin: 15px;
+    border-radius: 10%;
+}
+
+#button{
+    background-color: rgb(7, 125, 136);
+    margin-top: 60px;
+    height: 25px;
+}
+
+input{
+    
+    background-color: rgb(121, 116, 107);
+}
+
+value{
+    font-size: 30px;
+}
