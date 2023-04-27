@@ -1,0 +1,18 @@
+.form {
+    /* width: 20%; */
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 10px;
+    
+  }
+  
+  #button{
+    background-color: blueviolet;
+
+    
+  }
+
+  #first{
+    height: 40px;
+  }
